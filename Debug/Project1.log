@@ -1,0 +1,11 @@
+﻿  Create_Window.cpp
+C:\Users\Owner\Desktop\Rhianna_CSCE515\project_02\ShaderLoader.h(14,27): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+C:\Users\Owner\Desktop\Rhianna_CSCE515\project_02\mat.h(16,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Desktop\Rhianna_CSCE515\project_02\mat.h(701,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Rhianna_CSCE515\project_02\mat.h(702,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Rhianna_CSCE515\project_02\mat.h(703,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Rhianna_CSCE515\project_02\mat.h(724,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Rhianna_CSCE515\project_02\mat.h(726,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Rhianna_CSCE515\project_02\mat.h(729,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Rhianna_CSCE515\project_02\mat.h(746,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\Owner\Desktop\Rhianna_CSCE515\project_02\Debug\Project2.exe
